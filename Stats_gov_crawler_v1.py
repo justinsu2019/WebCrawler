@@ -1,3 +1,9 @@
+'''
+What's new
+1 updated with url.
+2 upgrade output content.
+'''
+
 import requests
 from bs4 import BeautifulSoup
 
